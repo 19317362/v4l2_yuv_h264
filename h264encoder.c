@@ -6,7 +6,6 @@
 #      Version: 
 #   LastChange: 2016-12-11 
 #      History:
-
 =============================================================================*/
 #include <stdio.h>
 #include <stdlib.h>
