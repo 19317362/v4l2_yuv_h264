@@ -6,7 +6,6 @@
 #      Version: 
 #   LastChange: 2016-12-11 
 #      History:
-
 =============================================================================*/
 #include <unistd.h>
 #include <sys/types.h>
